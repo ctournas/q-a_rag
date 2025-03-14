@@ -1,0 +1,10 @@
+pypdf
+langchain-community
+docx2txt
+wikipedia
+tiktoken
+pinecone
+langchain-openai
+langchain-pinecone
+chromadb
+langchain-chroma
